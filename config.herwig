@@ -1,0 +1,34 @@
+*****************************************************
+*** Herwig devel configuration summary
+*** Please include this information in bug reports!
+***--------------------------------------------------
+*** Prefix:		/home/joonblee/WD/herwig74test
+***
+*** BSM models:		yes
+*** UFO converter:	yes, using Python 3.8
+***
+*** Herwig debug mode:	no
+***
+*** ThePEG:		/home/joonblee/WD/herwig74test
+*** ThePEG headers:	/home/joonblee/WD/herwig74test/include
+***
+*** GoSam:		/home/joonblee/WD/herwig74test
+*** GoSam-Contrib:      /home/joonblee/WD/herwig74test
+*** MadGraph:        	/home/joonblee/WD/herwig74test/opt/MG5_aMC_v3_5_1
+*** njet:		/home/joonblee/WD/herwig74test 1025
+*** OpenLoops:		/home/joonblee/WD/herwig74test/opt/OpenLoops-2.1.2
+*** VBFNLO:		/home/joonblee/WD/herwig74test
+***
+*** EvtGen:		/home/joonblee/WD/herwig74test
+*** GSL:		/home/joonblee/WD/herwig74test
+*** boost:              -I/home/joonblee/WD/herwig74test/include
+*** Fastjet:		/home/joonblee/WD/herwig74test/bin/fastjet-config
+***
+*** Host:		x86_64-pc-linux-gnu
+*** CC:			gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+*** CXX:		g++ (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+*** FC:			GNU Fortran (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+***
+*** CXXFLAGS:		-O2 -DBOOST_UBLAS_NDEBUG -Wno-deprecated-declarations -Wno-deprecated-copy
+*** FCFLAGS:            -g -O2 -ffixed-line-length-none
+*****************************************************
